@@ -1,1 +1,11 @@
-# Event-Management-Dashboard"# Event-Management-Dashboard" 
+Event-Management-Dashboard
+
+
+Signing 
+Email address :- admin@example.com
+Password :- admin123
+
+
+API used 
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJsaGdrZXdjZ2lxc2ttZXdjbXVzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzQ4MTc0OTcsImV4cCI6MjA1MDM5MzQ5N30._Iw0hiTtiBxCovoiy6HIv7pWvf56pU82MXfSodvtjvg
+VITE_SUPABASE_URL=https://rlhgkewcgiqskmewcmus.supabase.co
